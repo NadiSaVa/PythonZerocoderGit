@@ -26,3 +26,4 @@ class Warrior ():
         print(f"сила воина - {self.power}")
         print(f"выносливость воина - {self.endurance}")
 
+print('еще одна проверка связи')
